@@ -5,4 +5,4 @@
 * Decrypt the downloaded file <webssl-setup.shx.gpb> using following command
 * gpg webssl-setup.shx.gpb (enter password when prompted).
 * Now execute the script as shown below.
-* bash webssl-setup.shx
+* bash webssl-setup.shx <or> ./webssl-setup.shx
