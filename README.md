@@ -1,4 +1,4 @@
-# Steps to run the script "webssl-setup.shx" 
+# Steps to execute the script "webssl-setup.shx" 
 
 * Download the script using the [wget] command as shown below.
 * wget  https://raw.githubusercontent.com/yathish21/webssl-affine/main/webssl-setup.shx.gpg
